@@ -1,0 +1,55 @@
+.container {
+    max-width: 1920px;
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+#sel {
+    margin-top: 20px;
+    max-width: 500px;
+    width: 100%;
+    margin-left: 500px;
+}
+
+.info {
+    margin-left: 200px;
+}
+
+#info1 {
+    margin-left: 150px;
+    display: none;
+}
+
+#info2 {
+    margin-left: 150px;
+    display: none;
+}
+
+#info3 {
+    margin-left: 150px;
+    display: none;
+}
+
+#info4 {
+    margin-left: 150px;
+    display: none;
+}
+
+.button {
+    display: none;
+    margin-left: 100px;
+}
+
+.button1 {
+    display: none;
+    margin-left: 300px;
+}
+
+.infos {
+    max-height: 64px;
+    height: 100%;
+}
